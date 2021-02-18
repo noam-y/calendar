@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-02-07 23:37+0000\n"
+"POT-Creation-Date: 2021-02-18 14:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,10 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
-
-#: app/routers/profile.py:20
-msgid "Not found"
-msgstr ""
 
 #: app/templates/agenda.html:11
 msgid "From"
@@ -53,69 +49,69 @@ msgstr ""
 msgid "No events found..."
 msgstr ""
 
-#: app/templates/base.html:19
+#: app/templates/base.html:20
 msgid "Calendar"
 msgstr ""
 
-#: app/templates/base.html:26
+#: app/templates/base.html:28
 msgid "Home"
 msgstr ""
 
-#: app/templates/base.html:29
+#: app/templates/base.html:31
 msgid "Profile"
 msgstr ""
 
-#: app/templates/base.html:32
+#: app/templates/base.html:34
 msgid "Sign in"
 msgstr ""
 
-#: app/templates/base.html:35
+#: app/templates/base.html:37
 msgid "Sign up"
 msgstr ""
 
-#: app/templates/base.html:40
+#: app/templates/base.html:42
 msgid "Agenda"
 msgstr ""
 
-#: app/templates/profile.html:50
+#: app/templates/profile.html:57
 msgid "Update name"
 msgstr ""
 
-#: app/templates/profile.html:57 app/templates/profile.html:77
-#: app/templates/profile.html:97 app/templates/profile.html:120
-#: app/templates/profile.html:140
+#: app/templates/profile.html:65 app/templates/profile.html:88
+#: app/templates/profile.html:110 app/templates/profile.html:134
+#: app/templates/profile.html:157
 msgid "Save changes"
 msgstr ""
 
-#: app/templates/profile.html:70
+#: app/templates/profile.html:79
 msgid "Update email"
 msgstr ""
 
-#: app/templates/profile.html:90
+#: app/templates/profile.html:102
 msgid "Update description"
 msgstr ""
 
-#: app/templates/profile.html:111
+#: app/templates/profile.html:125
 msgid "Update photo"
 msgstr ""
 
-#: app/templates/profile.html:220
+#: app/templates/profile.html:243
 msgid "Upcoming event on (date)"
 msgstr ""
 
-#: app/templates/profile.html:246
+#: app/templates/profile.html:269
 msgid "The Event (event)"
 msgstr ""
 
-#: app/templates/profile.html:249
+#: app/templates/profile.html:272
 msgid "Last updated (time) ago"
 msgstr ""
 
-#: app/templates/profile.html:285
+#: app/templates/profile.html:309
 msgid "Explore MeetUps near you"
 msgstr ""
 
-#: app/templates/profile.html:293
+#: app/templates/profile.html:317
 msgid "Your Card"
 msgstr ""
 
